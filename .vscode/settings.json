@@ -1,0 +1,5 @@
+{
+    "explorer.enableDragAndDrop": false,
+    "workbench.editor.splitOnDragAndDrop": true,
+    "editor.dragAndDrop": true
+}
